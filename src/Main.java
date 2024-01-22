@@ -3,7 +3,7 @@
 +Class: CSIT Java 501                                                                         +
 +Project Name: HousePicture.java                                                              +
 +Description: In this program I will draw a nice picture of a house using shapes with JavaFx. +
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 
 import javafx.application.Application;
 import javafx.scene.Group;
